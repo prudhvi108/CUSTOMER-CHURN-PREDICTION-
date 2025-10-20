@@ -1,4 +1,4 @@
-# CUSTOMER-CHURN-PREDICTION-
+# CUSTOMER-CHURN-PREDICTION
 
 This project predicts whether a customer will churn (leave a service) using Machine Learning classification models.
 
